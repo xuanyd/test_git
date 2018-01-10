@@ -1,1 +1,2 @@
-tets yidong jicai 
+tets yidong jicai
+test remotes connect
